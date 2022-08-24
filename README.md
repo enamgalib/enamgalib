@@ -6,8 +6,8 @@
 - 📫 How to reach me enam.galib@gmail.com 
 - Follow me for amazing website with solution like football website.
 - You can check my amazing football website by clicking this link (https://enamgalib.github.io/responsive-football/).
-Md. Mazharul Islam is my uncle (mamu/my mom's brother)
-You can vist his github account by clicking this link (https://github.com/Maaazhar)
+- Md. Mazharul Islam is my uncle (mamu/my mom's brother)
+- You can vist his github account by clicking this link (https://github.com/Maaazhar)
 
 <!---
 Mohammad Asadullah Galib/Galib Programming Hero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
