@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Web Development.
 - 💬 Ping me about Web Development.
-- 📫 How to reach me enam.galib@gmail.com, Linked In
+- 📫 How to reach me enam.galib@gmail.com, www.linkedin.com/in/mohammad-asadullah-galib-628817267
 - Follow me for amazing website with solution like football website.
 - You can check my amazing football website by clicking this link (https://enamgalib.github.io/responsive-football/).
 - Md. Mazharul Islam is my uncle (mamu/my mom's brother)
