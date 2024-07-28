@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammad Asadullah Galib.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Web Development.
 - 💬 Ping me about Web Development.
 - 📫 How to reach me enam.galib@gmail.com, https://www.linkedin.com/in/mohammad-asadullah-628817267/
 - Follow me for amazing website with solution like football website.
